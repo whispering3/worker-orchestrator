@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+asyncpg
+prometheus_client
+pydantic
+pydantic-settings
+pytest
+pytest-asyncio
+pytest-env
+httpx
